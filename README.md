@@ -27,7 +27,6 @@ Others: Torch, LangChain, dotenv, ReportLab, arabic-reshaper, python-bidi
 📦 Installation
 Clone the repo:
 
-git clone https://github.com/Abdo0213/Book_summary_RAG
 cd research-assistant
 Create a virtual environment:
 
